@@ -106,7 +106,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.bbtech.myapp.docufr.SettingsFragment", "fragment"
+          "com.knoozapps.myapp.docufr.SettingsFragment", "fragment"
         ]
       }
     ]
