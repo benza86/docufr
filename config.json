@@ -1,105 +1,34 @@
 [
   {
-     "title":"REPLAYS",
+    "title":"أخبار",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
-
-	 {
-        "title":"Capital- EnQ-Exc",
-        "provider":"youtube",
+	      {
+        "title":"كأس العالم",
+        "provider":"wordpress",
         "arguments":[
-          "UCQFjvsCX3DDXxEc55cx03Jw",
-          "channel"
-
-        ]
-     },
-
-	        {
-        "title":"TCF",
-        "provider":"youtube",
-        "arguments":[
-          "UC_4WpPcSfpxsSqA6hNpqJbg",
-          "channel"
-
-        ]
-      },
-	        {
-        "title":"envoyé spécial",
-        "provider":"youtube",
-        "arguments":[
-          "UCCauEjHzPXxGer8af3u4x5g",
-          "channel"
-
-        ]
-      },
-      {
-        "title":"Docu FR",
-        "provider":"youtube",
-        "arguments":[
-          "UC9hrtTMXVrZg66BTp6VdXgA",
-          "channel"
-
-        ]
-      },
-	    {
-        "title":"Documentaires",
-        "provider":"youtube",
-        "arguments":[
-          "UCzhQvyhZ3M9nKFE3jrrqGsQ",
-          "channel"
-
-        ]
-      },
-	  	  	   {
-        "title":"Docus",
-        "provider":"youtube",
-        "arguments":[
-          "UCj0Fef2NUqFw6Hx5rLwDxyw",
-          "channel"
-
+         "http://shevahd.fr/wp-json/wp/v2/",
+          "18"
         ]
       }
 	  ,
-	  	  	   {
-        "title":"lezzapeur",
-        "provider":"youtube",
+      {
+        "title":"اخر الاخبار",
+        "provider":"wordpress",
         "arguments":[
-          "UCfwUl7ryupeNn43XKOZLjKg",
-          "channel"
-
+          "http://shevahd.fr/wp-json/wp/v2/"
         ]
       }
-	  	  ,
-	  	  	   {
-        "title":"Docu2",
-        "provider":"youtube",
-        "arguments":[
-          "UCIxIJWyjXPi4c8IxRZIqnwg",
-          "channel"
 
-        ]
-      }
-	  	  ,
-	  	  	   {
-        "title":"Doc&Doc",
-        "provider":"youtube",
-        "arguments":[
-          "UCTuEcje9UPP5qpnCkNcbX6w",
-          "channel"
-
-        ]
-      }
-   
-  ]
-  }
-  ,
-
+    ]
+  },
+  
   {
-    "title":"A propos",
+    "title":"عن التطبيق",
     "drawable":"",
-    "submenu":"autres",
+    "submenu":"Other",
     "iap":false,
     "tabs":[
       {
