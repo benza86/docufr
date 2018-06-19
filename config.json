@@ -15,6 +15,15 @@
 
         ]
      },
+	     {
+        "title":"Docu Chaque jour",
+        "provider":"youtube",
+        "arguments":[
+          "UCJ9tHJbCa8ZoMbapfJLy0ZQ",
+          "channel"
+
+        ]
+     },
  {
         "title":"Zone Intedite",
         "provider":"youtube",
