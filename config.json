@@ -15,7 +15,15 @@
 
         ]
      },
+ {
+        "title":"Zone Intedite",
+        "provider":"youtube",
+        "arguments":[
+          "UCf4cYs4HpO_OOnpaVe8Xflg",
+          "channel"
 
+        ]
+     },
 	        {
         "title":"TCF",
         "provider":"youtube",
