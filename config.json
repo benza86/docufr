@@ -156,6 +156,43 @@
   ]
   }
   ,
+	 {
+     "title":"YOUTUBEURS",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+ {
+        "title":"SQUEEZIE",
+        "provider":"youtube",
+        "arguments":[
+          "UCWeg2Pkate69NFdBeuRFTAw",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"NORMAN FAIT DES VIDÉOS",
+        "provider":"youtube",
+        "arguments":[
+          "UCww2zZWg4Cf5xcRKG-ThmXQ",
+          "channel"
+
+        ]
+     },
+	     {
+        "title":"Cyprien",
+        "provider":"youtube",
+        "arguments":[
+          "UCyWqModMQlbIo8274Wh_ZsQ",
+          "channel"
+
+        ]
+     }
+   
+  ]
+  }
+	,
 	  {
     "title":"Trop de Pubs??",
     "drawable":"",
