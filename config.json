@@ -189,6 +189,36 @@
 
         ]
      }
+	    ,
+	     {
+        "title":"Mcfly & Carlito",
+        "provider":"youtube",
+        "arguments":[
+          "UCDPK_MTu3uTUFJXRVcTJcEw",
+          "channel"
+
+        ]
+     }
+	    	    ,
+	     {
+        "title":"Laink et Terracid",
+        "provider":"youtube",
+        "arguments":[
+          "UCYGjxo5ifuhnmvhPvCc3DJQ",
+          "channel"
+
+        ]
+     }
+	     	    ,
+	     {
+        "title":"Natoo",
+        "provider":"youtube",
+        "arguments":[
+          "UCtihF1ZtlYVzoaj_bKLQZ-Q",
+          "channel"
+
+        ]
+     }
    
   ]
   }
