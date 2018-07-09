@@ -51,10 +51,28 @@
         ]
       },
 	        {
+        "title":"REPORTERS",
+        "provider":"youtube",
+        "arguments":[
+          "PLCnUnV3yCIYsMFDw8PfyIY_dgnbDtf1gm",
+          "playlist"
+
+        ]
+      },
+	           {
+        "title":"FOCUS",
+        "provider":"youtube",
+        "arguments":[
+          "PLCnUnV3yCIYsMFDw8PfyIY_dgnbDtf1gm",
+          "playlist"
+
+        ]
+      },
+	        {
         "title":"envoyé spécial",
         "provider":"youtube",
         "arguments":[
-          "UCCauEjHzPXxGer8af3u4x5g",
+          "PLCnUnV3yCIYv74aRiL_2wGdF2h2-O4TCv",
           "channel"
 
         ]
