@@ -50,6 +50,24 @@
 
         ]
       },
+	         {
+        "title":"Enquête exclusive",
+        "provider":"youtube",
+        "arguments":[
+          "PLZcIHWq9jlNmBdcPMds6HiKA6ZlAUvEAy",
+          "playlist"
+
+        ]
+      },
+	       {
+        "title":"bref.",
+        "provider":"youtube",
+        "arguments":[
+          "UCWxt-Sphj4wcAoaIfhsALRg",
+          "channel"
+
+        ]
+      },
 	        {
         "title":"REPORTERS",
         "provider":"youtube",
