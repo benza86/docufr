@@ -86,15 +86,7 @@
 
         ]
       },
-	        {
-        "title":"envoyé spécial",
-        "provider":"youtube",
-        "arguments":[
-          "PLCnUnV3yCIYv74aRiL_2wGdF2h2-O4TCv",
-          "channel"
-
-        ]
-      },
+	    
       {
         "title":"Docu FR",
         "provider":"youtube",
