@@ -23,6 +23,15 @@
 
         ]
      },
+	        {
+        "title":"TV Show Replay",
+        "provider":"youtube",
+        "arguments":[
+          "UCzO1XhUWKmrxlQpmUtsYZyQ",
+          "channel"
+
+        ]
+     },
 	     {
         "title":"Docu Chaque jour",
         "provider":"youtube",
