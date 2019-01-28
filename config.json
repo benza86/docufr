@@ -69,15 +69,7 @@
 
         ]
      },
- {
-        "title":"Zone Intedite",
-        "provider":"youtube",
-        "arguments":[
-          "UCf4cYs4HpO_OOnpaVe8Xflg",
-          "channel"
 
-        ]
-     },
 	        {
         "title":"TCF",
         "provider":"youtube",
@@ -151,16 +143,7 @@
 
         ]
       },
-	  	  	   {
-        "title":"Docus",
-        "provider":"youtube",
-        "arguments":[
-          "UCj0Fef2NUqFw6Hx5rLwDxyw",
-          "channel"
-
-        ]
-      }
-	  ,
+	  	  	
 	  	  	   {
         "title":"lezzapeur",
         "provider":"youtube",
